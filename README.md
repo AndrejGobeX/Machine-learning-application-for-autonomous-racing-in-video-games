@@ -1,2 +1,3 @@
 # Machine-learning-application-for-autonomous-racing-in-video-games
-Bachelor's thesis
+
+English translation of my Bachelor's thesis.
